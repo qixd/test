@@ -16,8 +16,6 @@ You have two options for formatting your documentation:
 * :ref:`in-rst`
 * :ref:`in-markdown`
 
-.. _in-rst:
-
 In reStructuredText
 ~~~~~~~~~~~~~~~~~~~
 
